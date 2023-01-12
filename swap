@@ -1,0 +1,22 @@
+Welcome to your bank account Ms. ABC
+
+		0. Logout and Exit
+		1. View Account Balance
+		2. Withdraw Cash
+		3. Deposit Cash
+		4. Change PIN
+		5. Return Card
+Enter number to proceed > 2
+
+
+
+Please enter your 4-digit PIN > 1054
+Account auhtorized!
+
+
+Opening Cash Withdrawal...
+Enter the amount you wish to withdraw > 4000
+Withdrawing Rs. 4000.0
+Confirm? Y/N > y
+Amount withdrawn - Rs. 4000.0
+Remaining balance - Rs. 9996000.0
